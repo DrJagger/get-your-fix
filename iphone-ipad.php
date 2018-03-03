@@ -14,7 +14,7 @@
 
   <body>
 
-    <!-- Device info Form ////////////////////////////////////////////////////////////// -->
+    <!-- Device info Form ///////////////////////////////////////////////////////// -->
     <div class="container">
       <h1>Device Information</h1>
       <h6>Here you should provide as much information about your device as possible. The more details you provide the quicker the process.</h6>

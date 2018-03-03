@@ -14,7 +14,7 @@
 
   <body>
 
-    <!-- Device info Form ////////////////////////////////////////////////////////////// -->
+    <!-- Device info Form //////////////////////////////////////////////////////// -->
     <div class="container">
       <h1>Device Information</h1>
       <h6>Here you should provide as much information about your device as possible. The more details you provide the quicker the process.</h6>
@@ -41,7 +41,7 @@
           <textarea class="form-control" name="description" id="description" placeholder="Please be as descriptive as possible" rows="4"></textarea>
         </fieldset>
 
-        <!-- Contact Info Form- ////////////////////////////////////////////////////////-->
+        <!-- Contact Info Form- ////////////////////////////////////////////////////-->
         <div>
           <h1>Contact Information</h1>
           <small class="muted"> This information will never be shared with others</small>
